@@ -21,6 +21,6 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Girish this is my first build and deploy");
+	  System.out.println("Hello from Girish this is my first build and deploy in local");
   }
 }
